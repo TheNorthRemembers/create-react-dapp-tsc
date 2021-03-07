@@ -22,6 +22,7 @@
   "author": {
     "name": "John McLaughlin"
   },
+  "contributors": ["Michael Bondi"],
   "bin": "scripts/create-react-dapp-tsc",
   "repository": "github:TheNorthRemembers/create-react-dapp-tsc",
   "files": [

@@ -1,5 +1,7 @@
-# Create React dApp
+# Create React dApp using Typescript
 ## An Ethereum dApp bootstrapper.
+
+## Forked from https://github.com/mjhm/create-react-dapp and updated to use the Typescript template with create-react-app
 
 ## Quick Start
 
@@ -9,7 +11,7 @@ npm install -g truffle
 ```
 ### Create your app and start a Ganache blockchain.
 ```
-npx create-react-dapp mydapp
+npx create-react-dapp-tsc mydapp
 cd mydapp
 npm run ganache
 ```
