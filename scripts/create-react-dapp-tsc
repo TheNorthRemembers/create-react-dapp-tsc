@@ -14,7 +14,7 @@ APP_NAME=$1
 echo '**********    CREATE REACT DAPP    **********'
 echo '********** 1. CREATE REACT APP ' $@ ' ***'
 echo
-npx create-react-app $@
+npx create-react-app $@ --template typescript
 echo '********** DONE CREATING REACT APP ***********'
 echo '**********************************************'
 echo
