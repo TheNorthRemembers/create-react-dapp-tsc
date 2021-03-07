@@ -1,6 +1,6 @@
 {
   "name": "create-react-dapp-tsc",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "An Ethereum template layered upon create-react-app with the Typescript template",
   "keywords": [
     "ethereum",
