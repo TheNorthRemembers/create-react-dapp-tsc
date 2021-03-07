@@ -1,6 +1,6 @@
 {
   "name": "create-react-dapp-tsc",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "An Ethereum template layered upon create-react-app with the Typescript template",
   "keywords": [
     "ethereum",
@@ -22,7 +22,9 @@
   "author": {
     "name": "John McLaughlin"
   },
-  "contributors": ["Michael Bondi"],
+  "contributors": [
+    "Michael Bondi"
+  ],
   "bin": "scripts/create-react-dapp-tsc",
   "repository": "github:TheNorthRemembers/create-react-dapp-tsc",
   "files": [
